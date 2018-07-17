@@ -2,7 +2,7 @@
 
 #### 环境初始化
 
-使用py3的venv来隔离不同项目的包
+我使用的是debian，相信其它Linux或OSX，应该也差不多。windows应该也差不多，使用py3的venv来隔离不同项目的包，避免版本冲突。
 
 ```shell
 user@shell> mkdir joinquant_research
@@ -25,7 +25,7 @@ user@joinquant_research> python xxx.py
 
 
 
-#### 我的策略->投资研究运行
+#### 云端运行（聚宽后台->我的策略->投资研究运行）
 
 删除or注释以下两行代码，复制到云端即可运行。
 
